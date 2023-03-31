@@ -1,7 +1,7 @@
 {
   "name": "@bscswap/interface",
   "description": "BSCswap Interface",
-  "homepage": "https://gifs4crypto.github.io/swap",
+  "homepage": "https://gifs4crypto.github.io/bsc-swap",
   "private": true,
   "devDependencies": {
     "@bscswap/binance-connector": "6.0.10",
